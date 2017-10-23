@@ -5,8 +5,8 @@ permalink:           pretty
 title:               CDBlog
 tagline:             'iOS Team @ Codoon'
 description:         ''
-url:                 http://ioscodoon.github.io/CDBlog
-baseurl:             ''
+url:                 https://ioscodoon.github.io/CDBlog
+baseurl:             'https://ioscodoon.github.io/CDBlog'
 
 plugins:             [jekyll-paginate]
 paginate:            5
